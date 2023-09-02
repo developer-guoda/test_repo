@@ -4,3 +4,5 @@ e=e
 r=r
 t=t
 y=y
+u=u
+i=i
